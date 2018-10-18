@@ -1,0 +1,9 @@
+C:\Users\Makshakov\Documents\Visual Studio 2010\Projects\Excel для Вани\Excel\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.exe
+C:\Users\Makshakov\Documents\Visual Studio 2010\Projects\Excel для Вани\Excel\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.pdb
+C:\Users\Makshakov\Documents\Visual Studio 2010\Projects\Excel для Вани\Excel\WindowsFormsApplication2\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Makshakov\Documents\Visual Studio 2010\Projects\Excel для Вани\Excel\WindowsFormsApplication2\obj\x86\Release\WindowsFormsApplication2.Form1.resources
+C:\Users\Makshakov\Documents\Visual Studio 2010\Projects\Excel для Вани\Excel\WindowsFormsApplication2\obj\x86\Release\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Makshakov\Documents\Visual Studio 2010\Projects\Excel для Вани\Excel\WindowsFormsApplication2\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Makshakov\Documents\Visual Studio 2010\Projects\Excel для Вани\Excel\WindowsFormsApplication2\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Makshakov\Documents\Visual Studio 2010\Projects\Excel для Вани\Excel\WindowsFormsApplication2\obj\x86\Release\WindowsFormsApplication2.exe
+C:\Users\Makshakov\Documents\Visual Studio 2010\Projects\Excel для Вани\Excel\WindowsFormsApplication2\obj\x86\Release\WindowsFormsApplication2.pdb
